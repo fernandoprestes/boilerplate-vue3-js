@@ -1,3 +1,0 @@
-# Components
-
-## Delete this README

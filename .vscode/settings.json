@@ -7,7 +7,7 @@
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
-  "eslint.validate": ["vue", "javascript", "javascriptreact", "html"],
+  "eslint.validate": ["vue", "javascript", "html"],
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
