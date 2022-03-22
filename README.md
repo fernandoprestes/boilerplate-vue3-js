@@ -1,7 +1,22 @@
-# Vue 3 + Vite
+# Template de projeto Vue3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este repositório serve como um template para projetos pessoal e/ou profissional futuro, usando as seguintes tecnologias:
 
-## Recommended IDE Setup
+## Tecnologias
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- [Vite](https://vitejs.dev/)
+- [Vue3](https://vuejs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Eslint](https://eslint.org/)
+- [Eslint-plugin-vue](https://eslint.vuejs.org/)
+- [Prettier](https://prettier.io/)
+
+### Ferramentas recomendadas
+
+- [VSCode](https://code.visualstudio.com/)
+- [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+---
