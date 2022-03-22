@@ -1,15 +1,10 @@
 {
-  "quoteProps": "as-needed",
-  "singleQuote": true,
-  "semi": true,
-  "bracketSameLine": false,
-  "trailingComma": "all",
   "printWidth": 120,
-  "tabWidth": 2,
-  "useTabs": false,
-  "bracketSpacing": true,
-  "endOfLine": "crlf",
+  "singleQuote": true,
+  "trailingComma": "all",
+  "quoteProps": "consistent",
+  "arrowParens": "avoid",
   "vueIndentScriptAndStyle": true,
-  "singleAttributePerLine": true,
-  "arrowParens": "avoid"
+  "endOfLine": "crlf",
+  "singleAttributePerLine": true
 }
