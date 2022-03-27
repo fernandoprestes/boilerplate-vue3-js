@@ -1,6 +1,6 @@
 # Template de projeto Vue3
 
-Este repositório serve como um template para projetos pessoal e/ou profissional futuro, usando as seguintes tecnologias:
+Este repositório serve como um template para projetos com vite e vue3:
 
 ## Tecnologias
 
@@ -20,3 +20,5 @@ Este repositório serve como um template para projetos pessoal e/ou profissional
 - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ---
+
+2022 - [github.com/fernandoprestes](https://github.com/fernandoprestes)
