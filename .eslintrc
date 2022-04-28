@@ -12,5 +12,5 @@
     "sourceType": "module"
   },
   "plugins": ["vue", "html", "prettier"],
-  "rules": { "prettier/prettier": "error", "vue/require-default-prop": "off" }
+  "rules": { "prettier/prettier": "error", "vue/require-default-prop": "off", "vue/multi-word-component-names": "off" }
 }
