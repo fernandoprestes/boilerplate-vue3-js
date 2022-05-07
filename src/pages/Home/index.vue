@@ -42,7 +42,7 @@
         title="prettier"
       />
     </div>
-    <div class="h-[1px] w-[50%] bg-green-400"></div>
+    <div class="h-1 w-1/2 bg-green-400"></div>
     <div>
       <a
         class="rounded bg-green-400 px-6 py-2 transition ease-in hover:bg-green-300"
@@ -55,15 +55,19 @@
       target="_blank"
       class="flex items-center justify-center gap-2 rounded border border-green-400 px-2 hover:bg-green-400 hover:text-green-50"
     >
-      Github <IcGithub aria-label="github icon" />
+      Github
+      <Icon
+        name="Github"
+        color="#000"
+      />
     </a>
   </div>
 </template>
 <script>
-  import IcGithub from '../../icons/IcGithub.vue';
+  import Icon from '../../components/Icon/Index.vue';
   export default {
     name: 'App',
-    components: { IcGithub },
+    components: { Icon },
   };
 </script>
 <style></style>
