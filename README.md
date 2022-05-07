@@ -10,6 +10,7 @@ Este repositório serve como um template para projetos com vite e vue3:
 - [Eslint](https://eslint.org/)
 - [Eslint-plugin-vue](https://eslint.vuejs.org/)
 - [Prettier](https://prettier.io/)
+- [Vue Router](https://router.vuejs.org/)
 
 ### Ferramentas recomendadas
 
