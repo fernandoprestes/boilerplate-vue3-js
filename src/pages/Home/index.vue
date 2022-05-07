@@ -44,10 +44,10 @@
     </div>
     <div class="h-1 w-1/2 bg-green-400"></div>
     <div>
-      <a
+      <router-link
         class="rounded bg-green-400 px-6 py-2 transition ease-in hover:bg-green-300"
-        href="/about"
-        >Sobre</a
+        :to="{ name: 'About' }"
+        >Sobre</router-link
       >
     </div>
     <a
