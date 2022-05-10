@@ -22,9 +22,9 @@ Este repositório serve como um template para projetos SPA com vite e vue3:
 - `components/`: Componentes da aplicação
   - `icon`: Componentes de icon
 - `pages/`: Paginas da aplicação
-  - `Home`: Pagina principal ("/")
-  - `About`: Pagina secundaria ("/about")
-- `router`: `Rotas das pages
+  - `Home`: Pagina principal `("/")`
+  - `About`: Pagina secundaria `("/about")`
+- `router`: Rotas das pages
 - `tailwind.config.js`: Configurações do tailwind
 - `vite.config.js`: Configurações do vite
 
