@@ -16,17 +16,17 @@ Este repositório serve como um template para projetos SPA com vite e vue3:
 
 ### Estrutura de Pastas
 
-- .vscode `Settings para facilitar o desenvolvimento`
-- assets `Recursos de css, img e scripts`
-  - img `Upload de imagens`
-- components/ `Componentes da aplicação`
-  - icon `Componentes de icon`
-- pages/ `Paginas da aplicação`
-  - Home `Pagina principal ("/")`
-  - About `Pagina secundaria ("/about")`
-- router `Rotas das pages`
-- tailwind.config.js `Configurações do tailwind`
-- vite.config.js `Configurações do vite`
+- `.vscode`: Settings para facilitar o desenvolvimento
+- `assets/`: Recursos de css, img e scripts
+  - `img`: Upload de imagens
+- `components/`: Componentes da aplicação
+  - `icon`: Componentes de icon
+- `pages/`: Paginas da aplicação
+  - `Home`: Pagina principal `("/")`
+  - `About`: Pagina secundaria `("/about")`
+- `router`: Rotas das pages
+- `tailwind.config.js`: Configurações do tailwind
+- `vite.config.js`: Configurações do vite
 
 ## Configurações do Projeto
 
