@@ -1,9 +1,10 @@
 {
   "recommendations": [
-    "johnsoncodehk.volar",
+    "octref.vetur",
+    "Wscats.vue",
+    "znck.vue",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "bradlc.vscode-tailwindcss",
-    "znck.vue"
+    "bradlc.vscode-tailwindcss"
   ]
 }
