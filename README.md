@@ -43,7 +43,6 @@ $ yarn dev
 
 - [VSCode](https://code.visualstudio.com/)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-- [Vue 3 Support - All In One](https://marketplace.visualstudio.com/items?itemName=Wscats.vue)
 - [Vue](https://marketplace.visualstudio.com/items?itemName=znck.vue)
 - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)

@@ -1,7 +1,6 @@
 {
   "recommendations": [
     "octref.vetur",
-    "Wscats.vue",
     "znck.vue",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
