@@ -1,9 +1,10 @@
 {
   "recommendations": [
-    "octref.vetur",
-    "znck.vue",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "vue.volar",
+    "hollowtree.vue-snippets",
+    "sdras.vue-vscode-snippets"
   ]
 }
