@@ -61,7 +61,7 @@
   </div>
 </template>
 <script>
-  import Icon from '../../components/Icon/Index.vue';
+  import Icon from '../../components/Icon/Icon.vue';
   export default {
     name: 'App',
     components: { Icon },
