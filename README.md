@@ -42,8 +42,9 @@ $ yarn dev
 ## Extensões recomendadas para o VScode
 
 - [VSCode](https://code.visualstudio.com/)
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-- [Vue](https://marketplace.visualstudio.com/items?itemName=znck.vue)
+- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
 - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
