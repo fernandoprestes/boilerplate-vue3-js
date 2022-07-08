@@ -1,6 +1,10 @@
+<script setup>
+  import Github from '../../components/Icon/Github.vue';
+  import ViteVueColors from '../../components/Icon/ViteVueColors.vue';
+</script>
 <template>
   <div class="container flex h-screen flex-col items-center justify-center space-y-10">
-    <h1 class="text-4xl font-bold text-primary-300">Boilerplate Vite + Vue3</h1>
+    <h1 class="text-4xl font-bold text-primary-300">Boilerplate <ViteVueColors /></h1>
     <div class="flex gap-4">
       <img
         class="w-32"
@@ -53,31 +57,22 @@
     <a
       href="https://github.com/fernandoprestes/boilerplate-vue3-js"
       target="_blank"
-      class="flex items-center justify-center gap-2 rounded border border-primary-600 px-2 text-white hover:bg-primary-600"
+      class="flex items-center justify-center gap-2 rounded border border-primary-600 px-2 py-1 text-white hover:bg-primary-600"
     >
       Github
-      <Icon name="Github" />
+      <Github />
     </a>
   </div>
 </template>
-<script>
-  import Icon from '../../components/Icon/Icon.vue';
-  export default {
-    name: 'App',
-    components: { Icon },
-  };
-</script>
-<style
-  lang="css"
-  scoped
->
+<style lang="css" scoped>
   .diver__background {
     background: linear-gradient(
       100deg,
-      rgba(44, 11, 97, 0.3) 0%,
-      rgba(44, 11, 97, 0.7) 20%,
-      rgba(208, 69, 121, 0.7) 80%,
-      rgba(208, 69, 121, 0.3) 100%
+      rgba(44, 11, 97, 0.01) 0%,
+      rgba(44, 11, 97, 0.2) 15%,
+      rgba(44, 11, 97, 1) 50%,
+      rgba(44, 11, 97, 0.2) 85%,
+      rgba(44, 11, 97, 0.01) 100%
     );
   }
 </style>
