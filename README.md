@@ -1,6 +1,6 @@
 # Template de projeto Vue3
 
-Este repositório serve como um template para projetos SPA com vite e vue3:
+Este repositório se baseia em estudos sobre Vue3 e desenvolvimento FrontEnd e serve como um template para projetos SPA com Vue3 como framework principal.
 
 ## Tecnologias
 
@@ -21,10 +21,12 @@ Este repositório serve como um template para projetos SPA com vite e vue3:
   - `img`: Upload de imagens
 - `components/`: Componentes da aplicação
   - `icon`: Componentes de icon
-- `pages/`: Paginas da aplicação
-  - `Home`: Pagina principal `("/")`
-  - `About`: Pagina secundaria `("/about")`
+- `pages/`: Páginas da aplicação
+  - `Home`: Página principal `("/")`
+  - `About`: Página sobre o projeto `("/about")`
 - `router`: Rotas das pages
+- `.eslintrc`: Configurações do ESlint
+- `.prettierrc`: Configurações do Prettier
 - `tailwind.config.js`: Configurações do tailwind
 - `vite.config.js`: Configurações do vite
 
