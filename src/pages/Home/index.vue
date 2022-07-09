@@ -46,7 +46,7 @@
         title="prettier"
       />
     </div>
-    <div class="diver__background h-1 w-1/2"></div>
+    <div class="h-1 w-1/2 bg-gradient-to-r from-[#2c0b6103] via-[#2c0b61] to-[#2c0b6103]"></div>
     <div>
       <router-link
         class="rounded bg-primary-600 px-6 py-2 text-white transition ease-in hover:bg-primary-500"
@@ -64,15 +64,3 @@
     </a>
   </div>
 </template>
-<style lang="css" scoped>
-  .diver__background {
-    background: linear-gradient(
-      100deg,
-      rgba(44, 11, 97, 0.01) 0%,
-      rgba(44, 11, 97, 0.2) 15%,
-      rgba(44, 11, 97, 1) 50%,
-      rgba(44, 11, 97, 0.2) 85%,
-      rgba(44, 11, 97, 0.01) 100%
-    );
-  }
-</style>

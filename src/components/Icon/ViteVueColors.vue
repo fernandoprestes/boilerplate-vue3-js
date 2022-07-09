@@ -3,7 +3,7 @@
     <a
       href="https://vitejs.dev/"
       target="_blank"
-      class="vite-color font-bold"
+      class="bg-gradient-to-r from-[#5eacff] via-[#936afe] to-[#ae47fe] bg-clip-text font-bold text-transparent"
     >
       Vite
     </a>
@@ -11,16 +11,9 @@
     <a
       href="https://vuejs.org/"
       target="_blank"
-      class="font-bold text-[#3fb17f]"
+      class="font-bold text-[#00dc82]"
     >
       VueJS
     </a>
   </span>
 </template>
-<style lang="css" scoped>
-  .vite-color {
-    background: -webkit-linear-gradient(top left, #5eacff, #936afe, #ae47fe);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-</style>
