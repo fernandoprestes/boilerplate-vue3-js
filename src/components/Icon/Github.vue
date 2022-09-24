@@ -1,3 +1,10 @@
+<script setup>
+  defineProps({
+    size: Number,
+    color: String,
+  });
+</script>
+
 <template>
   <svg
     :width="size"
@@ -10,13 +17,3 @@
     ></path>
   </svg>
 </template>
-
-<script>
-  export default {
-    name: 'Github',
-    props: {
-      size: { type: [String, Number], default: 22 },
-      color: { type: String, default: 'white' },
-    },
-  };
-</script>

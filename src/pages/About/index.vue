@@ -1,6 +1,6 @@
 <script setup>
   import { ref } from 'vue';
-  import ViteVueColors from './../../components/Icon/ViteVueColors.vue';
+  import ViteVueColors from '@/components/Icon/ViteVueColors.vue';
 
   const count = ref(0);
 

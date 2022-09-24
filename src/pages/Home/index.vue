@@ -1,6 +1,6 @@
 <script setup>
-  import Github from '../../components/Icon/Github.vue';
-  import ViteVueColors from '../../components/Icon/ViteVueColors.vue';
+  import Github from '@/components/Icon/Github.vue';
+  import ViteVueColors from '@/components/Icon/ViteVueColors.vue';
 </script>
 <template>
   <div class="container flex h-screen flex-col items-center justify-center space-y-10">
@@ -60,7 +60,7 @@
       class="flex items-center justify-center gap-2 rounded border border-primary-600 px-2 py-1 text-white hover:bg-primary-600"
     >
       Github
-      <Github />
+      <Github size="24" />
     </a>
   </div>
 </template>
