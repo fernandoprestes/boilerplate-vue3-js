@@ -30,16 +30,22 @@
       </div>
       <div class="space-y-4 text-xl leading-relaxed text-slate-300">
         <p>
-          Este projeto de boilerplate <ViteVueColors /> foi desenvolvido com base em estudos sobre o Vue e tem como
-          objetivo servir de template para projetos de estudo que me faça especializar no desenvolvimento frontend.
+          Este projeto de boilerplate <ViteVueColors /> foi desenvolvido com
+          base em estudos sobre o Vue e tem como objetivo servir de template
+          para projetos de estudo que me faça especializar no desenvolvimento
+          frontend.
         </p>
         <p>
-          Sempre que precisava iniciar um <span class="rounded bg-slate-600 px-2 font-mono">setup</span> para um projeto
-          para poder praticar ou estudar tinha que fazer as mesmas configurações todas as vezes. Pensando nisso, resolvi
-          criar este template para ser sempre o ponto inicial de todos os projetos que eu quisesse ou precisasse fazer.
+          Sempre que precisava iniciar um
+          <span class="rounded bg-slate-600 px-2 font-mono">setup</span> para um
+          projeto para poder praticar ou estudar tinha que fazer as mesmas
+          configurações todas as vezes. Pensando nisso, resolvi criar este
+          template para ser sempre o ponto inicial de todos os projetos que eu
+          quisesse ou precisasse fazer.
         </p>
         <p>
-          Como o avanço e aprofundamento nos estudos, e para padronizar todos os meus projetos, estudei e adicionei o
+          Como o avanço e aprofundamento nos estudos, e para padronizar todos os
+          meus projetos, estudei e adicionei o
           <a
             href="https://eslint.org/"
             target="_blank"
@@ -55,7 +61,8 @@
           >
             Prettier
           </a>
-          para ter um padrão de código ao meu estilo. Também estudei e adicionei o
+          para ter um padrão de código ao meu estilo. Também estudei e adicionei
+          o
           <a
             href="https://tailwindcss.com/"
             target="_blank"
@@ -78,8 +85,12 @@
         </p>
       </div>
     </div>
-    <div class="container mt-10 flex flex-col items-center justify-center space-y-4 px-8">
-      <p class="font-mono text-slate-300">Exemplo para incrementar e decrementar um contador</p>
+    <div
+      class="container mt-10 flex flex-col items-center justify-center space-y-4 px-8"
+    >
+      <p class="font-mono text-slate-300">
+        Exemplo para incrementar e decrementar um contador
+      </p>
       <span class="text-4xl text-white">{{ count }}</span>
       <span>{{ countLimit }}</span>
       <div class="flex gap-2">

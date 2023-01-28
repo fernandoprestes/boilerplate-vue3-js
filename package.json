@@ -2,28 +2,29 @@
   "name": "boilerplate-vue3-js",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src",
-    "format": "prettier . --write"
+    "format": "prettier --cache --write \"src/**/*.{vue,js}\"",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
-    "vue": "^3.2.39",
-    "vue-router": "^4.1.5"
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.1.0",
-    "autoprefixer": "^10.4.12",
-    "eslint": "^8.24.0",
-    "eslint-config-prettier": "^8.5.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-vue": "^9.5.1",
-    "postcss": "^8.4.16",
-    "prettier": "^2.7.1",
-    "prettier-plugin-tailwindcss": "^0.1.13",
-    "tailwindcss": "^3.1.8",
-    "vite": "^3.1.3"
+    "eslint-plugin-vue": "^9.9.0",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.3",
+    "prettier-plugin-tailwindcss": "^0.2.2",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.4"
   }
 }

@@ -3,8 +3,12 @@
   import ViteVueColors from '@/components/Icon/ViteVueColors.vue';
 </script>
 <template>
-  <div class="container flex h-screen flex-col items-center justify-center space-y-10">
-    <h1 class="text-4xl font-bold text-primary-300">Boilerplate <ViteVueColors /></h1>
+  <div
+    class="container flex h-screen flex-col items-center justify-center space-y-10"
+  >
+    <h1 class="text-4xl font-bold text-primary-300">
+      Boilerplate <ViteVueColors />
+    </h1>
     <div class="flex gap-4">
       <img
         class="w-32"
@@ -46,7 +50,9 @@
         title="prettier"
       />
     </div>
-    <div class="h-1 w-1/2 bg-gradient-to-r from-[#2c0b6103] via-[#2c0b61] to-[#2c0b6103]"></div>
+    <div
+      class="h-1 w-1/2 bg-gradient-to-r from-[#2c0b6103] via-[#2c0b61] to-[#2c0b6103]"
+    ></div>
     <div>
       <router-link
         class="rounded bg-primary-600 px-6 py-2 text-white transition ease-in hover:bg-primary-500"
